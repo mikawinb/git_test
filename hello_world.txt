@@ -1,0 +1,2 @@
+Hej på dig Mikael!
+Jag testar Git och GitHub via terminalen.
